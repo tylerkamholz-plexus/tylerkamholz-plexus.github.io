@@ -1,0 +1,11 @@
+site_name: Software Skills
+repo_url: https://github.com/tylerkamholz-plexus/tylerkamholz-plexus.github.io
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+
+nav:
+  - Home: index.md
